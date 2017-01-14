@@ -1,0 +1,6 @@
+ - desktop - ::1 2016-10-15 22:38:20 PM http://localhost/
+ - desktop - ::1 2016-10-15 22:38:22 PM http://localhost/widgets/bannerSlide/js_css/img/loading.gif
+ - desktop - ::1 2016-10-15 22:38:24 PM http://localhost/right.gif
+ - desktop - ::1 2016-10-15 22:38:25 PM http://localhost/down.gif
+ - desktop - ::1 2016-10-15 22:38:26 PM http://localhost/templates/default/js_css/images/top_bbg.gif
+ - desktop - ::1 2016-10-15 22:38:28 PM http://localhost/widgets/doitac/js_css/img/loading.gif

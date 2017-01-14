@@ -1,0 +1,39 @@
+127.0.0.1 2016-08-06 09:56:00 PM http://myproject.net/templates/default/js_css/images/footer_bg1.gif
+127.0.0.1 2016-08-06 09:56:02 PM http://myproject.net/templates/default/js_css/images/right.gif
+127.0.0.1 2016-08-06 09:56:03 PM http://myproject.net/templates/default/js_css/images/down.gif
+127.0.0.1 2016-08-06 09:56:05 PM http://myproject.net/templates/default/js_css/images/top_bbg.gif
+127.0.0.1 2016-08-06 09:56:06 PM http://myproject.net/widgets/doitac/js_css/img/loading.gif
+127.0.0.1 2016-08-06 09:56:07 PM http://myproject.net/templates/default/js_css/images/bottom_bbg.gif
+127.0.0.1 2016-08-06 09:56:08 PM http://myproject.net/templates/mtn_default/jssor/img/b12.png
+127.0.0.1 2016-08-06 09:56:10 PM http://myproject.net/widgets/bannerSlide/js_css/img/loading.gif
+127.0.0.1 2016-08-06 09:56:11 PM http://myproject.net/favicon.ico
+127.0.0.1 2016-08-06 09:56:16 PM http://myproject.net/templates/default/js_css/images/footer_bg1.gif
+127.0.0.1 2016-08-06 09:56:18 PM http://myproject.net/templates/default/js_css/images/right.gif
+127.0.0.1 2016-08-06 09:56:19 PM http://myproject.net/templates/default/js_css/images/down.gif
+127.0.0.1 2016-08-06 09:56:21 PM http://myproject.net/templates/default/js_css/images/bottom_bbg.gif
+127.0.0.1 2016-08-06 09:56:22 PM http://myproject.net/widgets/doitac/js_css/img/loading.gif
+127.0.0.1 2016-08-06 09:56:23 PM http://myproject.net/templates/default/js_css/images/top_bbg.gif
+127.0.0.1 2016-08-06 09:56:25 PM http://myproject.net/templates/mtn_default/jssor/img/b12.png
+127.0.0.1 2016-08-06 09:56:26 PM http://myproject.net/widgets/bannerSlide/js_css/img/loading.gif
+127.0.0.1 2016-08-06 09:56:27 PM http://myproject.net/favicon.ico
+127.0.0.1 2016-08-06 10:05:32 PM http://myproject.net/  - desktop
+127.0.0.1 2016-08-06 10:05:33 PM http://myproject.net/  - desktop
+127.0.0.1 2016-08-06 10:05:35 PM http://myproject.net/right.gif  - desktop
+127.0.0.1 2016-08-06 10:05:36 PM http://myproject.net/down.gif  - desktop
+127.0.0.1 2016-08-06 10:05:38 PM http://myproject.net/templates/default/js_css/images/top_bbg.gif  - desktop
+127.0.0.1 2016-08-06 10:05:39 PM http://myproject.net/widgets/doitac/js_css/img/loading.gif  - desktop
+127.0.0.1 2016-08-06 10:05:40 PM http://myproject.net/templates/default/js_css/images/bottom_bbg.gif  - desktop
+127.0.0.1 2016-08-06 10:05:42 PM http://myproject.net/templates/mtn_default/jssor/img/b12.png  - desktop
+127.0.0.1 2016-08-06 10:05:43 PM http://myproject.net/widgets/bannerSlide/js_css/img/loading.gif  - desktop
+127.0.0.1 2016-08-06 10:05:44 PM http://myproject.net/templates/default/js_css/images/footer_bg1.gif  - desktop
+127.0.0.1 2016-08-06 10:05:46 PM http://myproject.net/favicon.ico  - desktop
+ - desktop - 127.0.0.1 2016-08-06 10:06:26 PM http://myproject.net/
+ - desktop - 127.0.0.1 2016-08-06 10:06:28 PM http://myproject.net/right.gif
+ - desktop - 127.0.0.1 2016-08-06 10:06:29 PM http://myproject.net/down.gif
+ - desktop - 127.0.0.1 2016-08-06 10:06:30 PM http://myproject.net/templates/default/js_css/images/top_bbg.gif
+ - desktop - 127.0.0.1 2016-08-06 10:06:31 PM http://myproject.net/widgets/doitac/js_css/img/loading.gif
+ - desktop - 127.0.0.1 2016-08-06 10:06:33 PM http://myproject.net/templates/default/js_css/images/bottom_bbg.gif
+ - desktop - 127.0.0.1 2016-08-06 10:06:34 PM http://myproject.net/templates/mtn_default/jssor/img/b12.png
+ - desktop - 127.0.0.1 2016-08-06 10:06:35 PM http://myproject.net/widgets/bannerSlide/js_css/img/loading.gif
+ - desktop - 127.0.0.1 2016-08-06 10:06:36 PM http://myproject.net/templates/default/js_css/images/footer_bg1.gif
+ - desktop - 127.0.0.1 2016-08-06 10:06:38 PM http://myproject.net/favicon.ico

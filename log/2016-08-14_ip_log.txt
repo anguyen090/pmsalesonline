@@ -1,0 +1,10 @@
+ - desktop - 127.0.0.1 2016-08-14 01:03:09 AM http://myproject.net/
+ - desktop - 127.0.0.1 2016-08-14 01:03:11 AM http://myproject.net/right.gif
+ - desktop - 127.0.0.1 2016-08-14 01:03:12 AM http://myproject.net/down.gif
+ - desktop - 127.0.0.1 2016-08-14 01:03:13 AM http://myproject.net/templates/default/js_css/images/top_bbg.gif
+ - desktop - 127.0.0.1 2016-08-14 01:03:14 AM http://myproject.net/widgets/doitac/js_css/img/loading.gif
+ - desktop - 127.0.0.1 2016-08-14 01:03:16 AM http://myproject.net/templates/default/js_css/images/bottom_bbg.gif
+ - desktop - 127.0.0.1 2016-08-14 01:03:17 AM http://myproject.net/templates/mtn_default/jssor/img/b12.png
+ - desktop - 127.0.0.1 2016-08-14 01:03:18 AM http://myproject.net/widgets/bannerSlide/js_css/img/loading.gif
+ - desktop - 127.0.0.1 2016-08-14 01:03:19 AM http://myproject.net/templates/default/js_css/images/footer_bg1.gif
+ - desktop - 127.0.0.1 2016-08-14 01:03:20 AM http://myproject.net/favicon.ico

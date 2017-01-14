@@ -1,0 +1,4 @@
+ - desktop - ::1 2016-10-08 21:42:42 PM http://localhost/
+ - desktop - ::1 2016-10-08 21:42:44 PM http://localhost/widgets/bannerSlide/js_css/img/loading.gif
+ - desktop - ::1 2016-10-08 21:42:46 PM http://localhost/right.gif
+ - desktop - ::1 2016-10-08 21:42:47 PM http://localhost/down.gif
