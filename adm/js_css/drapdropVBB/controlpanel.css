@@ -1,0 +1,57 @@
+.progress_dots {
+	COLOR: yellow; FONT-WEIGHT: bold
+}
+.widget_container {
+	BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; LIST-STYLE-TYPE: none; MARGIN: 6px; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid
+}
+.widget_title {
+	POSITION: relative; TEXT-ALIGN: center; BACKGROUND-COLOR: #808080; FONT: 12px tahoma; HEIGHT: 25px
+}
+.widget_title_primary {
+	BACKGROUND-COLOR: #dc143c
+}
+.widget_title DIV.title {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; WHITE-SPACE: nowrap; OVERFLOW: hidden; MARGIN-RIGHT: 19px; PADDING-TOP: 4px; _width: 60%;color:#000000;font-weight:bold;
+}
+.widget_title DIV.closebutton {
+	BORDER-BOTTOM: white 1px solid;BORDER-LEFT: white 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 0.8; PADDING-LEFT: 0px; WIDTH: 11px; PADDING-RIGHT: 0px; FONT-FAMILY: verdana,geneva,lucida,'lucida grande',arial,helvetica,sans-serif; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 11px; COLOR: white; FONT-SIZE: 10px; BORDER-TOP: white 1px solid; CURSOR: pointer; FONT-WEIGHT: bold; BORDER-RIGHT: white 1px solid; PADDING-TOP: 0px;float:right;margin-right:20px;margin-top:20px;@padding-bottom:2px;
+}
+.widget_title DIV.closebutton:hover {
+	BACKGROUND-COLOR: #cc3333
+}
+.widget_description {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #d3d3d3; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; FONT: 12px tahoma; HEIGHT: 40px; PADDING-TOP: 10px
+}
+.widget_description_primary {
+	BACKGROUND-COLOR: #f08080
+}
+.list_no_decoration {
+	PADDING-BOTTOM: 1px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; PADDING-TOP: 1px
+}
+.yui-header {
+	BACKGROUND-COLOR: #bdb76b
+}
+.yui-footer {
+	BACKGROUND-COLOR: #bdb76b
+}
+.yui-panel {
+	BACKGROUND-COLOR: #cbcbcb
+}
+.yui-sidebar {
+	BACKGROUND-COLOR: #cccc99
+}
+.section_name {
+	BORDER-BOTTOM: #a8b2b8 1px solid; BORDER-LEFT: #a8b2b8 1px solid; COLOR: #000000; BORDER-TOP: #a8b2b8 1px solid; BORDER-RIGHT: #a8b2b8 1px solid
+}
+#sections {
+	BORDER-BOTTOM: #001f30 4px ridge; BORDER-LEFT: #001f30 4px ridge; BACKGROUND: #eeeeee; BORDER-TOP: #001f30 4px ridge; BORDER-RIGHT: #001f30 4px ridge
+}
+#sections DIV {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+TR.selected_parent_row TD {
+	BORDER-BOTTOM: 2px outset; BORDER-LEFT: 2px outset; BACKGROUND: #aeacb9; BORDER-TOP: 2px outset; BORDER-RIGHT: 2px outset
+}
+TR.selected_parent_row TD .sectionTitleWrapper A {
+	FONT-SIZE: 16px
+}

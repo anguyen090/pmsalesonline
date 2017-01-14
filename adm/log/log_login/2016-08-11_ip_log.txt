@@ -1,0 +1,2 @@
+falid - administrator -> 113283228998 : 127.0.0.1 2016-08-11 07:16:38 PM http://myproject.net/adm/user/user_check.php
+Success - administrator -> Kiengiang@1915 : 127.0.0.1 2016-08-11 07:19:25 PM http://myproject.net/adm/user/user_check.php

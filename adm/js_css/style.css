@@ -1,0 +1,337 @@
+html,body,div,span,object,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,sub,sup,tt,var,u,i,center,dl,dt,dd,fieldset,form,label,legend,caption,tfoot,thead {
+    margin:0;
+    padding:0;
+    outline:0;
+    font-size:100%;
+    background:transparent;
+    border-collapse:collapse;
+	font:11px/18px Arial,Tahoma,Geneva,Kalimati,sans-serif;
+}
+img{
+	border:0px;
+}
+table {
+}
+body {
+	font:11px/18px Arial,Tahoma,Geneva,Kalimati,sans-serif;
+	margin:0px;
+	padding:0px;
+}
+#content {padding: 10px; border: 1px solid #ccc; border-top: 0px;min-height: 306px;}
+/*----- ĐỊNH DẠNG TRANG USER LOGIN ----------*/
+#siteContent {width: 100%;}
+header {width: 100%; height: 78px; line-height: 78px; background: #232323; border-bottom: 5px solid #ed1b24;}
+.logo {float: left;padding: 8px 0px 0px 10px;}
+.keylogin {float: right; color: #fff; font-weight: bold; line-height: 78px;}
+#login {width: 450px; height: 330px;margin: 78px auto; border: 1px solid #ccc;}
+#login h1 {width: 90%; padding: 15px 0px; font-weight: bold; text-align: center;border-bottom: 1px solid #ccc;margin: 0px auto;font-size: 18px;}
+#login .content {padding: 25px 50px;}
+#login .content span {width: 100%; font-weight: bold;}
+#login .content .input {width: 100%;padding: 5px; margin: 5px 0px 10px 0px; border: 1px solid #ccc;}
+#login .content .button {
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 5px 5px;
+    width: 150px;
+    background-color: #ed1b24 !important;
+    border: 1px solid #b10008;
+    color: #fff;
+    text-transform: uppercase;
+}
+.small {width: 47% !important; float: left; margin-right: 15px;}
+.datetime {width: 15%; float: left; margin-right: 10px;}
+.avatar {padding: 1px; margin: 5px auto;width: 120px; height: 120px; background: url(../imgs/addbann_.png) center center no-repeat; border: 1px solid #ccc; border-radius: 5px;}
+.avatar img {max-width: 120px; max-height: 120px; border-radius: 5px;}
+footer {width: 100%; color: #fff; background: #232323; border-top: 5px solid #ed1b24;}
+/*-----ĐỊNH DẠNG TRANG CHỦ----*/
+nav {
+    width: 100%;
+    height: 32px;
+    background: #e6e6e6;
+    margin: 5px 0px;
+}
+#mainMenu {width: 550px; float: left;}
+.account ul{
+    width: 315px;
+    margin: 3px 0px;
+    padding: 3px 10px;
+    background: #fff;
+    float: right;
+    list-style: none;
+}
+.account li {
+    float: left;
+    padding-left: 20px;
+    margin-right: 10px;
+}
+.account li.view {background: url(../imgs/view_.gif) top left no-repeat;}
+.account li.user {background: url(../imgs/user_.gif) top left no-repeat;}
+.account li.logout {background: url(../imgs/out_.gif) top left no-repeat;}
+/*-------ĐỊNH DẠNG TRANG WELLCOM---------*/
+.control, .control span {
+    font-size: 14px;
+    font-weight: bold;
+    color: #0099ff;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0px;
+    border-top: 5px solid #e6e6e6;
+}
+.control a {border: 0px;text-decoration: none;}
+.control span {border:  0px;}
+.control img {vertical-align: middle;}
+.visitor {
+    width: 450px;
+    height: 357px;
+    float: left;
+    padding: 10px 10px;
+}
+.visitor h2 {
+    font-weight: bold;
+    font-size: 14px;
+    padding: 5px 5px;
+    height: 30px;
+    line-height: 30px;
+    margin-bottom: -1px;
+    float: left;
+    border-bottom: 2px solid #ed1b24;
+}
+.count-visitor {
+    width: 250px;
+    float: left;
+}
+.count-visitor li span {color: #ff0000; font-weight: bold;}
+.count-visitor li p {width: 100px;float: left;}
+.count-visitor ul {list-style: none;margin: 0px; padding: 0px 10px;}
+.count-visitor li {padding: 5px 0px 5px 20px;}
+.count-visitor li.online {background: url(../imgs/visitor/vtoday.png) left center no-repeat;}
+.count-visitor li.total {background: url(../imgs/visitor/vtoday.png) left center no-repeat;}
+.count-visitor li.today {background: url(../imgs/visitor/vtoday.png) left center no-repeat;}
+.count-visitor li.yesterday {background: url(../imgs/visitor/vyesterday.png) left center no-repeat;}
+.count-visitor li.week {background: url(../imgs/visitor/vweek.png) left center no-repeat;}
+.count-visitor li.weekend {background: url(../imgs/visitor/vweek.png) left center no-repeat;}
+.count-visitor li.month {background: url(../imgs/visitor/vmonth.png) left center no-repeat;}
+.count-visitor li.last-month {background: url(../imgs/visitor/vlmonth.png) left center no-repeat;}
+.ip-visitor {
+    width: 200px;
+    height: 230px;
+    overflow: auto;
+    float: right;
+}
+#cpanel {
+    width: 850px;
+    height: 230px;
+    line-height: 230px;
+    float: right;
+}
+label {font-weight: bold;}
+.form {width: 600px;float: left;}
+.input {width: 100%; margin: 5px 0px 20px 0px;border : 1px solid #0099FF;color:#575757;}
+.clr {clear: both;}
+/*----ĐỊNH DẠNG CHO DATA GIT-----------------------*/
+.buttonUpdate {
+    height: 40px;
+    line-height: 40px;
+    float: left;
+    margin-right: 10%;
+    margin-bottom: 10px;
+}
+.buttonUpdate input[type="image"] {vertical-align: middle;}
+/*-----------ĐỊNH DẠNG TRANG BOXHIENTHI--------------------*/
+.layoutWidget {
+    width: 200px;
+    float: left;
+}
+.layoutButton {
+    width: 100px;
+    height: 259px;
+    float: left;
+    line-height: 259px;
+    text-align: center;
+}
+.layoutContent {
+    border: 1px solid #0099FF;
+    float: left;
+}
+/*------------------------------------------------------------------*/
+.language {padding: 10px 0px;}
+.buttonAction {text-align: center;padding: 10px 0px;}
+.checkWidget ul {list-style: none;}
+.pleft {padding-left: 300px;}
+.imgThumbs {
+    width: 200px;
+    float: left;
+    margin: 23px 0px 0px 10px;
+    text-align: center;
+}
+.imgThumbs img {max-width: 200px;}
+.imgThumbs ul {list-style: none; margin: 0px; padding: 0px;}
+a{font:12px/18px Arial,Tahoma,Geneva,Kalimati,sans-serif;text-decoration:none;color:#0099FF;}
+.buttons a:hover{text-decoration:none;color:#0099FF;}
+a:hover{text-decoration:none;}
+.link a{color:#017bae;}
+.button { 
+    font-family: Arial;
+    font-size: 12px;
+    padding: 5px 10px;		
+    color:#fff;
+    font-weight: bold ;
+    background-color: #232323;
+    border : 1px #ed1b24 solid;
+    margin-right: 10px;
+}
+.tdLine {
+    BORDER-RIGHT: #e6e6e6 1px solid;  
+    BORDER-TOP: #e6e6e6 1px solid; 
+    BORDER-LEFT: #e6e6e6 1px solid; 
+    BORDER-BOTTOM: #e6e6e6 1px solid;
+}
+				
+#cpanel {
+	TEXT-ALIGN: center
+}
+#cpanel2 {
+	TEXT-ALIGN: center
+}
+/* ---------- galleryAlbum styles start here ----------------------- */
+.galleryAlbum {
+	list-style: none;
+	margin: 0 auto;
+	padding: 0;
+}
+.galleryAlbum li {
+	padding: 10px;
+	margin: 0;
+	float: left;
+	position: relative;
+	width: auto;
+	height: 120px;
+}
+.galleryAlbum img {
+	background: #fff;
+	border: solid 1px #ccc;
+	padding: 5px;
+	max-width: 130px;
+	width: expression( this.scrollHeight > 129 ? "130" : "auto" );
+	max-height: 110px;
+	height: expression( this.scrollHeight > 109 ? "110" : "auto" );
+}
+.galleryAlbum li:hover img {
+	border-color: #999;
+}
+.galleryAlbum em {
+	width: 120px;
+	background: url(./../imgs/bubble.gif) no-repeat;
+	padding: 3px 0 6px;
+	display: none;
+	position: absolute;
+	top: -2px;
+	left: 20px;
+	font-style: normal;
+	text-align: center;
+}
+.galleryAlbum a {
+	text-decoration: none;
+	color: #000;
+}
+.galleryAlbum a:hover em {
+	display: block;
+}
+.pager {
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+.pager ul { text-align: center; }
+.pager ul li.current a { border: 1px solid #666666; color: #989898; }
+.pager ul li { display: inline; line-height:10px;}
+.pager ul li a {
+	margin: 0 2px;
+	border: 1px solid #00cc6b;
+	padding: 1px 4px;
+	text-decoration: none;
+	*display:inline-block;
+}
+.pager ul li img {vertical-align:middle;*position:relative;*top:-3px;}
+.pager ul li a.disable { border: 1px solid #ccc; color: #989898; }
+
+
+/* Tabs
+----------------------------------*/
+ul.tabs {
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style: none;
+	height: 32px;
+	*height: 31px;
+	border-bottom: 1px solid #999;
+	border-left: 1px solid #999;
+	width: 100%;
+}
+ul.tabs li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	width:150px;
+	height: 31px;
+	line-height: 31px;
+	border: 1px solid #999;
+	border-left: none;
+	margin-bottom: -1px;
+	background: #e0e0e0;
+	overflow: hidden;
+	position: relative;
+	text-align:center;
+}
+ul.tabs li a {
+	text-decoration: none;
+	color: #000;
+	display: block;
+	font-size: 1.2em;
+	padding: 0 20px;
+	height: 31px;
+	line-height: 31px;
+	border: 1px solid #fff;
+	outline: none;
+}
+ul.tabs li a:hover {
+	background: #ccc;
+}	
+html ul.tabs li.active, html ul.tabs li.active a:hover  {
+	background: #fff;
+	border-bottom: 1px solid #fff;
+}
+.tab_container {
+	border: 1px solid #999;
+	border-top: none;
+	clear: both;
+	float: left; 
+	width: 100%;
+	background: #fff;
+	-moz-border-radius-bottomright: 5px;
+	-khtml-border-radius-bottomright: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	-khtml-border-radius-bottomleft: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+}
+.tab_content {
+	padding: 20px;
+	font-size: 1.2em;
+}
+.tab_content h2 {
+	font-weight: normal;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #ddd;
+	font-size: 1.8em;
+}
+.tab_content h3 a{
+	color: #254588;
+}
+.tab_content img {
+	float: left;
+	margin: 0 20px 20px 0;
+	border: 1px solid #ddd;
+	padding: 5px;
+}
+.left {float: left;}
+.right {float: right;}

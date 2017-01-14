@@ -1,0 +1,5 @@
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-29 12:04:00 AM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-29 12:04:08 AM http://myproject.net/adm/index.php?option=configemail
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-29 12:04:15 AM http://myproject.net/adm/index.php?option=configemail&action=update&id=1
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-29 12:04:27 AM http://myproject.net/adm/index.php?option=configemail&action=update&id=1
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-29 12:09:55 AM http://myproject.net/adm/index.php?option=configemail

@@ -1,0 +1,16 @@
+Desktop - Trang  ->  Admin : 192.168.1.109 2017-01-13 11:17:27 AM http://192.168.1.133/pmsalesonline/adm/
+Desktop - Trang  ->  Đăng nhập : 192.168.1.109 2017-01-13 05:17:41 AM http://192.168.1.133/pmsalesonline/adm/user/user_login.php
+Desktop - Trang  ->  Đăng nhập : 192.168.1.109 2017-01-13 05:17:49 AM http://192.168.1.133/pmsalesonline/adm/user/user_login.php?username=administrator
+Desktop - Trang  ->  Admin : 192.168.1.109 2017-01-13 11:17:54 AM http://192.168.1.133/pmsalesonline/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 09:23:59 PM http://local.khachhang.com/pmsalesonline/adm/
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2017-01-13 03:24:04 PM http://local.khachhang.com/pmsalesonline/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 09:24:06 PM http://local.khachhang.com/pmsalesonline/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 11:26:53 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 11:26:56 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=update&id=42
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 11:27:04 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidungProccess&action=update&id=42
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 11:27:06 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=update&id=42
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 11:27:09 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 11:27:27 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 11:27:30 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=update&id=42
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 11:27:34 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidungProccess&action=update&id=42
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-13 11:27:36 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=update&id=42

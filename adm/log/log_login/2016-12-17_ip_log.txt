@@ -1,0 +1,2 @@
+Success - administrator -> Kiengiang@1915 : 127.0.0.1 2016-12-17 04:28:00 PM http://myproject.net/adm/user/user_check.php
+Success - administrator -> Kiengiang@1915 : 127.0.0.1 2016-12-17 04:29:27 PM http://myproject.net/adm/user/user_check.php

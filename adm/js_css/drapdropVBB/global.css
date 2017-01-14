@@ -1,0 +1,60 @@
+.floatcontainer:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+.block_row:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+.floatcontainer {
+	DISPLAY: inline-block
+}
+* HTML .floatcontainer {
+	HEIGHT: 1%
+}
+.floatcontainer {
+	DISPLAY: block
+}
+.cms_widget_config_400 {
+	WIDTH: 400px
+}
+.cms_widget_config_450 {
+	WIDTH: 450px
+}
+.cms_widget_config_500 {
+	WIDTH: 500px
+}
+.cms_widget_config_550 {
+	WIDTH: 550px
+}
+.cms_widget_config_600 {
+	WIDTH: 600px
+}
+.cms_widget_config_650 {
+	WIDTH: 650px
+}
+.cms_widget_config_700 {
+	WIDTH: 700px
+}
+.cms_widget_config_750 {
+	WIDTH: 750px
+}
+.cms_widget_config_800 {
+	WIDTH: 800px
+}
+UL.floatlist {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL.floatlist LI {
+	PADDING-BOTTOM: 1px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; PADDING-TOP: 1px
+}
+.section_row {
+	BACKGROUND-COLOR: #dddddd
+}
+.yui-main {
+	WIDTH: 100%; FLOAT: left
+}
+.yui-b {
+	WIDTH: 100%; FLOAT: left
+}
+.yui-g {
+	WIDTH: 100%; FLOAT: left
+}

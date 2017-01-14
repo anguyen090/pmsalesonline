@@ -1,0 +1,33 @@
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:11:05 PM http://local.khachhang.com/pmsalesonline/adm/
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2017-01-09 12:11:14 PM http://local.khachhang.com/pmsalesonline/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:11:16 PM http://local.khachhang.com/pmsalesonline/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:12:17 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:15:34 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:15:57 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:16:39 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidungProccess&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:16:41 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:16:55 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidungProccess&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:16:57 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:17:07 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidungProccess&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:17:09 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:17:15 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidungProccess&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:17:17 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:17:47 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidungProccess&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:17:49 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:18:02 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidungProccess&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:18:03 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:18:05 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:22:42 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:22:44 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:23:18 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthiProccess&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:23:19 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 06:37:33 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=add
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2017-01-09 02:50:07 PM http://local.khachhang.com/pmsalesonline/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 08:50:09 PM http://local.khachhang.com/pmsalesonline/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 09:02:45 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 11:17:08 PM http://local.khachhang.com/pmsalesonline/adm/
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 11:17:12 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 11:17:41 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=update&id=43
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 11:19:22 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=update&id=43
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 11:19:55 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidungProccess&action=update&id=43
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-09 11:19:57 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=update&id=43

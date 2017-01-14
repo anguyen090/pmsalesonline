@@ -1,0 +1,24 @@
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 11:07:59 AM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 04:51:34 PM http://myproject.net/adm/
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 04:51:42 PM http://myproject.net/adm/
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 06:57:11 PM http://myproject.net/adm/
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 10:27:25 PM http://myproject.net/adm/
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 10:33:58 PM http://myproject.net/adm/
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 10:35:38 PM http://myproject.net/adm/
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 10:37:34 PM http://myproject.net/adm/
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 05:40:04 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 10:40:12 PM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 10:50:58 PM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 05:51:03 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 06:00:05 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 06:00:28 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 06:00:36 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 06:00:57 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 06:01:05 PM http://myproject.net/adm/user/user_login.php?username=administrator
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 06:01:11 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 06:14:21 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-09-03 06:16:31 PM http://myproject.net/adm/user/user_login.php?username=
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 11:16:58 PM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 11:17:29 PM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 11:17:53 PM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-09-03 11:19:31 PM http://myproject.net/adm/

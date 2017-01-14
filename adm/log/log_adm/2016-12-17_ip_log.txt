@@ -1,0 +1,30 @@
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:27:51 PM http://myproject.net/adm/
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-12-17 04:27:51 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:28:03 PM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:29:21 PM http://myproject.net/adm/
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-12-17 04:29:21 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:29:44 PM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:30:08 PM http://myproject.net/adm/index.php?option=widget
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:30:20 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:35:34 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:36:50 PM http://myproject.net/adm/index.php?option=widgetProccess&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:36:55 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:37:08 PM http://myproject.net/adm/index.php?option=widget
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:37:18 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:49:00 PM http://myproject.net/adm/index.php?option=widgetProccess&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:49:14 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:52:34 PM http://myproject.net/adm/index.php?option=widgetProccess&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 10:52:42 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:02:20 PM http://myproject.net/adm/index.php?option=widgetProccess&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:02:52 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:04:13 PM http://myproject.net/adm/index.php?option=widgetProccess&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:04:20 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:13:59 PM http://myproject.net/adm/index.php?option=widgetProccess&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:14:06 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:21:26 PM http://myproject.net/adm/index.php?option=widgetProccess&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:21:33 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:25:30 PM http://myproject.net/adm/index.php?option=widgetProccess&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:25:37 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:25:56 PM http://myproject.net/adm/index.php?option=widgetProccess&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:26:03 PM http://myproject.net/adm/index.php?option=widget&action=update&id=41
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-17 11:31:01 PM http://myproject.net/adm/index.php?option=widget

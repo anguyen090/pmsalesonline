@@ -1,0 +1,13 @@
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-08-24 04:25:31 AM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 09:25:43 AM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 09:25:58 AM http://myproject.net/adm/index.php?option=bannerSlide
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 09:27:32 AM http://myproject.net/adm/index.php?option=bannerSlide&action=update&id=13
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 10:00:51 AM http://myproject.net/adm/index.php?option=bannerSlide
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 10:00:57 AM http://myproject.net/adm/index.php?option=bannerSlide&action=update&id=14
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 10:01:57 AM http://myproject.net/adm/index.php?option=bannerSlide
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 10:02:01 AM http://myproject.net/adm/index.php?option=bannerSlide&action=update&id=15
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 10:02:08 AM http://myproject.net/adm/index.php?option=bannerSlide&action=update&id=15
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 10:30:15 AM http://myproject.net/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 10:30:21 AM http://myproject.net/adm/index.php?option=boxhienthi&action=update&id=1
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 10:30:27 AM http://myproject.net/adm/index.php?option=boxhienthiProccess&action=update&id=1
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-08-24 10:30:29 AM http://myproject.net/adm/index.php?option=boxhienthi&action=update&id=1

@@ -1,0 +1,5 @@
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-11-21 11:14:12 PM http://myproject.net/adm/
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-11-21 05:14:12 PM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-11-21 11:14:16 PM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-11-21 11:14:31 PM http://myproject.net/adm/index.php?option=comment
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-11-21 11:17:42 PM http://myproject.net/adm/index.php?option=noidung

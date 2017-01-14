@@ -1,0 +1,35 @@
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:24:57 PM http://local.khachhang.com/pmsalesonline/adm/
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2017-01-12 12:25:05 PM http://local.khachhang.com/pmsalesonline/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:25:05 PM http://local.khachhang.com/pmsalesonline/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:28:51 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:28:59 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=update&id=29
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:29:13 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthiProccess&action=update&id=29
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:29:15 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=update&id=29
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:29:16 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:29:29 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=widget
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:29:37 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=widget&action=update&id=47
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:29:50 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=widgetProccess&action=update&id=47
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:29:52 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=widget
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:30:05 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=widget&action=update&id=47
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:30:17 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=widgetProccess&action=update&id=47
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:30:18 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=widget&action=update&id=47
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:31:01 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:31:03 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:31:42 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:31:45 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=update&id=28
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:32:17 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:32:40 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthiProccess&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:32:41 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=add
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:33:07 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:33:12 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=update&id=44
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:33:25 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidungProccess&action=update&id=44
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:33:26 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=loainoidung&action=update&id=44
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:33:30 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:33:33 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=update&id=30
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:33:39 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthiProccess&action=update&id=30
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:33:40 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi&action=update&id=30
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 06:33:42 PM http://local.khachhang.com/pmsalesonline/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 08:32:33 PM http://local.khachhang.com/pmsalesonline/adm/
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 08:32:33 PM http://local.khachhang.com/pmsalesonline/adm/
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2017-01-12 02:32:39 PM http://local.khachhang.com/pmsalesonline/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2017-01-12 08:32:41 PM http://local.khachhang.com/pmsalesonline/adm/index.php?lang=vietnam

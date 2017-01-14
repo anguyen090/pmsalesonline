@@ -1,0 +1,12 @@
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 11:56:12 AM http://myproject.net/adm/
+Desktop - Trang  ->  Đăng nhập : 127.0.0.1 2016-12-18 05:56:12 AM http://myproject.net/adm/user/user_login.php
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 11:56:17 AM http://myproject.net/adm/index.php?lang=vietnam
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 11:57:29 AM http://myproject.net/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 11:57:36 AM http://myproject.net/adm/index.php?option=boxhienthi&action=update&id=1
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 11:59:36 AM http://myproject.net/adm/index.php?option=boxhienthi
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 11:59:41 AM http://myproject.net/adm/index.php?option=boxhienthi&action=update&id=2
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 11:59:51 AM http://myproject.net/adm/index.php?option=boxhienthiProccess&action=update&id=2
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 11:59:54 AM http://myproject.net/adm/index.php?option=boxhienthi&action=update&id=2
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 12:08:43 PM http://myproject.net/adm/index.php?option=widget
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 12:08:54 PM http://myproject.net/adm/index.php?option=widget&action=update&id=33
+Desktop - Trang  ->  Admin : 127.0.0.1 2016-12-18 12:09:03 PM http://myproject.net/adm/index.php?option=widget
