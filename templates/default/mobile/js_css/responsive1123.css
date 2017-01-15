@@ -1,0 +1,112 @@
+#menuContent{position:relative;z-index:2;width:100%;height:46px;}
+#menuContent ul{display:table;list-style:none;margin:0px; padding:0px;width:100%;}
+#menuContent ul li{display:table-cell;margin:0px; padding:0px;}
+#menuContent ul li:after{display: block;content: "";position: relative;top:-46px;float:left;margin-left:-2px;width: 2px;background: transparent url(./images/mobileMenu_lbg.gif) no-repeat;}
+#menuContent ul li a{display:block;color:#232323;font-size: 12px; text-align:center;}
+#menuContent ul a:hover,#menuContent ul li a:active{background:#ed1b24;}
+#menuContent ul li a.iconmsp span:before{content: url(./images/icon_m_sp.png); padding-right:5px}
+#menuContent ul li a.iconmdv span:before{content: url(./images/icon_m_dv.png); padding-right:5px}
+#menuContent ul li a.iconmdm span:before{content: url(./images/icon_m_dm.png); padding-right:5px}
+#menuContent ul ul{display:block;position:absolute;top:46px;right:0px;width:100%;background:#fff;box-shadow: -2px 5px 10px -8px #ff0000;}
+#menuContent ul ul li{display:block;border-bottom:1px #ed1b24 solid;width:100%;}
+#menuContent ul ul li:last-child {border: 0px;}
+#menuContent ul ul li:after{content:'';background:none;}
+#menuContent ul ul li a{text-align:left;}
+#menuContent ul ul ul{display:block;position:relative;top:0px;}
+#menuContent ul ul a:hover{background:#ffe3e3;}
+#menuContent .menuDropdown{display:none;}
+#menuContent ul li #menuWin8{position:absolute;z-index:10;width:100%;}
+#menuWin8 ul{top:0px !important;left:0px !important;width:100% !important;}
+#menuWin8 ul li{width:100% !important;text-align:left !important;margin:3px !important;}
+#footerMenu{
+	background:#d4d4d4;
+	border-top:1px #b8b8b8 solid;
+	border-bottom:1px #b8b8b8 solid;
+}
+#footerMenu ul{
+	list-style: none;margin:0px;padding:5px 0px;
+}
+#footerMenu ul li{
+	background:#fff;
+	padding:6px;
+	margin:5px 10px;
+	background: rgb(229,229,229); /* Old browsers */
+	background: -moz-linear-gradient(top,  rgba(229,229,229,1) 0%, rgba(255,255,255,1) 50%, rgba(229,229,229,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(229,229,229,1)), color-stop(50%,rgba(255,255,255,1)), color-stop(100%,rgba(229,229,229,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 50%,rgba(229,229,229,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 50%,rgba(229,229,229,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 50%,rgba(229,229,229,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(229,229,229,1) 0%,rgba(255,255,255,1) 50%,rgba(229,229,229,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e5e5e5', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+#footerMenu ul li a{
+	display:block;text-transform:uppercase;
+	color:#0a4f87;font-weight:bold;padding-left:25px;
+	background: url(./images/icon-mainMenu.png) 5px center no-repeat;
+}
+#footerMenu ul li a:hover,#footerMenu ul li a:focus{
+	color:#ff0002;
+}
+@media screen and (max-width: 959px){
+    .productDetailt {width: 100% !important; float: left;}
+    .viewdetailt {display: none;}
+    #header .hotline{display:block}
+    #header .cartCount{display:none}
+    #header{padding-bottom:40px;}
+    #header .searchForm{width: 100% !important; top:auto!important;}
+    #header .searchForm input[type=text]{width:100% !important;height:30px;}
+    #productsNote{width:100%!important;}
+    #contactMaps{display:none;}
+    .imgNews {max-height: 180px;margin-right: 5px;}
+    .imgNews img {max-width: 204px; max-height: 174px !important;}
+    #news .title, #news .title a {margin: 0px;}
+    #header .hotline{background: none; display:block;margin-top: 20px;}
+	#header .hotline p {padding: 5px 2px 0px 0px;text-align: right;}
+	#header .hotline h3 {line-height: 10px; text-align: right;color: #fff;}
+    .toolRight {top: 9px !important;right:0px !important;padding-right: 0px !important;}
+}
+@media screen and (max-width: 539px) {
+    #contact{width:100%;}
+    #contact .jqte{min-width:300px !important;}
+    #contact .jqte_editor{max-width:320px !important;}
+    #contact label.capt{width:300px !important;}
+    #contact input.input{width:auto!important;max-width:100%;}
+    #contact select.input{width:auto!important;max-width:100%;}
+    .imgNews {width: 100%;max-height: 180px;margin-right: 0px;}
+    .imgNews img {width: 100%; max-height: 174px !important;}
+    /*CSS các form trên trang di d?ng*/
+    /*Trang thành viên*/
+    #register {width: 100%;float: left; margin: 0px auto;padding: 0px; float: none;border: 0px;}
+    .info {padding: 10px;}
+    #register #breadcrumb li.icon {background: #232323 url(../../images/account_register.png) center center no-repeat;}
+    #breadcrumb li.account-line {background: #232323 url(../../images/account_line.gif) top left no-repeat;}
+    #login {width: 100%;float: left;border-top: 1px dashed #ccc;}
+    #loginForm {padding: 10px;}
+    #login #breadcrumb li.icon {float: left;background: #232323 url(../../images/account_login.png) center center no-repeat;}
+    .web-tools {width: 100%;height: 41px;padding: 10px 10px; position: static;margin: 0px 0px 10px 0px; border-bottom: 1px solid #d1d1d1;}
+    .web-tools li {width: 30px; height: 30px;float: left;margin-right: 10px;}
+    .web-tools li a.tools-account {background-size: 15px !important; background: #232323 url(../../icon/icon_account.png) center center no-repeat;}
+    .web-tools li a.tools-account:hover {background-size: 15px !important;background: red url(../../icon/icon_account.png) center center no-repeat;}
+    .web-tools li a.tools-letter {background-size: 15px !important; background: #232323 url(../../icon/icon_letter.png) center center no-repeat;}
+    .web-tools li a.tools-letter:hover {background-size: 15px !important;background: red url(../../icon/icon_letter.png) center center no-repeat;}
+    .web-tools li a.tools-note-error {background-size: 15px !important;background: #232323 url(../../icon/icon_note_error.png) center center no-repeat;}
+    .web-tools li a.tools-note-error:hover {background-size: 15px !important;background: red url(../../icon/icon_note_error.png) center center no-repeat;}
+    .popupShow {width: 330px;position: static;}
+    .scrolltop {position: static;float: right;padding: 0px; margin-top: -1px;}
+    /*-Trang contact-*/
+    .contactForm {width: 320px;float: left;}
+    #contact input[type="text"] {width: 100%;}
+    .contact-info {width: 320px;}
+    .contact-info iframe {width: 320px;}
+    #contact label {width: 100%;}
+    /*-Trang info thành viên-*/
+    .small {width: 100%;padding: 10px;}
+    .avt {width: 100%; text-align: center;}
+    .avatar {margin: 0px auto;}
+    .cus {text-align: center;}
+    #news h1.title {font-size: 14px;}
+    .order {background: url(../button/btn_dathang.gif) top left no-repeat;width: 110px;float: none;}
+}

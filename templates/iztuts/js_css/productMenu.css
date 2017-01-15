@@ -1,0 +1,88 @@
+/*Products menu-------------------------------------------------------------*/
+#product_menu{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	width: 100%; /* Main Menu Item widths */
+	padding:10px 0px;
+	font-size:14px;
+	margin-top:-23px;padding-top:30px;
+}
+ 
+#product_menu li{
+	position: relative;
+	z-index:910;
+	margin:0px;
+	border-bottom:1px #009501 dashed;
+}
+
+/* Top level menu links style */
+#product_menu li a{
+	display: block;
+	overflow: auto; /*force hasLayout in IE7 */
+	color: #009501;
+	text-decoration: none;
+	line-height:30px;
+	padding-left:10px;
+	cursor:pointer;
+}
+
+#product_menu li a{
+	color: #009501;
+}
+#product_menu li a:visited{
+	color: #009501;
+}
+
+#product_menu li:hover a,#product_menu li:hover li:hover a{
+	font-weight:normal;
+	color:#cd0000;
+}
+#product_menu li:hover li a{
+	font-weight:normal;
+}
+#product_menu li:last-child{
+	-webkit-border-bottom-right-radius: 4px;
+	-webkit-border-bottom-left-radius: 4px;
+	-moz-border-radius-bottomright: 4px;
+	-moz-border-radius-bottomleft: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+#product_menu li:last-child a{
+	border-bottom:0px !important;
+}
+
+/*Sub level menu items */
+#product_menu li ul{
+	position:absolute;
+	top:0px;
+	left:185px;
+	list-style-type: none;
+	z-index:9999;
+	width: 185px; /*Sub Menu Items width */
+	margin:0px;
+	padding:0px;
+	margin-left:15px;
+}
+#product_menu ul li, #product_menu ul li a{
+	position: relative;
+	z-index:911;
+}
+#product_menu ul li{
+	display:none;
+}
+#product_menu li:hover ul li{
+	display:block;
+}
+#product_menu a.subfolderstyle{
+}
+#product_menu a.subfolderstyle:hover{
+}
+#product_menu a.itemstyle{
+	color:#000;
+}
+/* Holly Hack for IE \*/
+* html #product_menu li { float: left; height: 1%; }
+* html #product_menu li a { height: 1%; }
+/* End */
